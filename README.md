@@ -8,11 +8,9 @@ Users should be able to:
 
 ![32d40b09529d5344d1f659f0d9e9d50a](https://user-images.githubusercontent.com/77610851/128979089-a4e4d732-88d4-4e6e-9545-12f7f9f6e401.png)
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [https://bradyjurek.github.io/Order-Summary-Card/]
 
 ### Things I learned
 
